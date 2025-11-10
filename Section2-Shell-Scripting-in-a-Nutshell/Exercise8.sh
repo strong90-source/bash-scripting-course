@@ -1,8 +1,6 @@
 # Modify the previous script to accept an unlimited number of files and directories as arguments.
 # Hint: You'll want to use a special variable.
 
-
-
 #!/bin/bash
 
 USER_RESPONSE="$@"
